@@ -280,7 +280,8 @@ header_frame.pack(fill="x", pady=10)
 title = tk.Label(header_frame, text="💻 SD Pro Temperature Converter ⚡", font=("Segoe UI", 28, "bold"), fg=ACCENT, bg=BG1)
 title.pack()
 
-subtitle = tk.Label(header_frame, text="Student Edition • With Formulas & PDF Export",
+
+subtitle = tk.Label(header_frame, text="Created by Sarudharshini B - Student Edition • With Formulas & PDF Export",
                    font=("Segoe UI", 12), fg=SUBTEXT, bg=BG1)
 subtitle.pack()
 
