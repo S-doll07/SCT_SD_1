@@ -162,3 +162,13 @@ This project extends the basic requirement by integrating advanced features such
 
 Software Development Intern  
 SkillCraft Technology
+
+---
+
+# 📜 License
+
+This project is created for educational, learning, and internship purposes.
+
+---
+
+## ⭐ If you found this project interesting, consider giving it a star on GitHub!
