@@ -90,27 +90,19 @@ F = (K - 273.15) × 9/5 + 32
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Homepage.png)
-
----
+![Home Page](./screenshots/Home%20page.png)
 
 ### 🌡️ Temperature Conversion
-![Conversion 1](screenshots/conversion1.png)
+![Conversion 1](./screenshots/conversion%201.png)
 
 ### 🔄 Additional Conversion Features
-![Conversion 2](screenshots/conversion2.png)
-
----
+![Conversion 2](./screenshots/conversion%202.png)
 
 ### 📖 Formula Sheet
-![Formula Sheet](screenshots/Formulasheetpg.png)
-
----
+![Formula Sheet](./screenshots/Formula%20sheet%20pg.png)
 
 ### 📜 History & PDF Export
-![History & PDF Export](screenshots/historypdfexport.png)
-
----
+![History & PDF Export](./screenshots/history%20&%20PDF%20export.png)
 
 ## 🎯 Learning Outcomes
 
